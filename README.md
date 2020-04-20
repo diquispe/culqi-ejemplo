@@ -1,0 +1,1 @@
+ejemplo basico del funcionamiento de el sistema de pagos de culqui, totalmente funcional video original de junior grados https://www.youtube.com/watch?v=nFw8lF80SAI&t=907s
