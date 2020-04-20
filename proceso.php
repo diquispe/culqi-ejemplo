@@ -23,11 +23,6 @@ $charge = $culqi->Charges->create(
    )
 );
 
-
-
 echo 'exito';
-
-
-
 
 ?>
